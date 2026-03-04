@@ -33,7 +33,7 @@ I'm an **Artificial Intelligence** and **Machine Learning student** on a journey
 
 ## 📚 What I've Built
 
-| | Description | Tools |
+| Projects | Description | Tools |
 |--------|-------------|-------|
 | 🚢 [Titanic Survival Prediction](https://github.com/SardarAhmed05/Titanic-Survival-Prediction) | Kaggle competition model focused on data preprocessing and survival prediction | Python, Pandas, Scikit-Learn |
 | 📅 [HowLongAgo](https://github.com/SardarAhmed05/howlongago) | Python app that calculates time elapsed between two dates in days, minutes & seconds | Python |
