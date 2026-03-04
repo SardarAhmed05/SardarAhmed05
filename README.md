@@ -10,7 +10,6 @@ I'm a **Machine Learning student** on a journey from raw data to working models.
 - **Exploratory Data Analysis (EDA)** — uncovering patterns with statistics and visualization
 - **Machine Learning Algorithms** — linear/logistic regression, decision trees, SVMs, clustering
 - **Model Building & Evaluation** — training, validating, and improving predictive models
-- **And so on**
 
 ---
 
@@ -21,8 +20,8 @@ I'm a **Machine Learning student** on a journey from raw data to working models.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
@@ -34,7 +33,7 @@ I'm a **Machine Learning student** on a journey from raw data to working models.
 | 📅 [HowLongAgo](https://github.com/SardarAhmed05/howlongago) | Python app that calculates time elapsed between two dates in days, minutes & seconds | Python |
 | 📓 [ML Learning Journey](https://github.com/SardarAhmed05/ml_learning_journey) | Personal repo documenting ML & Data Science concepts, practice, and experiments | Jupyter Notebook, NumPy, Matplotlib |
 
-> More projects coming as I keep building!
+> More coming as I keep building!
 
 ---
 
@@ -44,6 +43,13 @@ I'm a **Machine Learning student** on a journey from raw data to working models.
 - [ ] Learning and applying core ML algorithms
 - [ ] Building and evaluating my first models
 - [ ] Competing on Kaggle
+
+---
+
+## 📊 GitHub Stats
+
+![Sardar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardarAhmed05&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SardarAhmed05&layout=compact&hide_border=true)
 
 ---
 
