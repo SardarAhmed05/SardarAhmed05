@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Sardar Ahmed 👋
 
-<!--
-**SardarAhmed05/SardarAhmed05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Machine Learning student** on a journey from raw data to working models. Currently focused on building strong foundations — from cleaning messy datasets to training my first algorithms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning
+
+- **Data Preprocessing & Cleaning** — handling missing values, outliers, feature engineering
+- **Exploratory Data Analysis (EDA)** — uncovering patterns with statistics and visualization
+- **Machine Learning Algorithms** — linear/logistic regression, decision trees, SVMs, clustering
+- **Model Building & Evaluation** — training, validating, and improving predictive models
+- **And so on**
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+
+---
+
+## 📚 What I've Built
+
+| | Description | Tools |
+|--------|-------------|-------|
+| 🚢 [Titanic Survival Prediction](https://github.com/SardarAhmed05/Titanic-Survival-Prediction) | Kaggle competition model focused on data preprocessing and survival prediction | Python, Pandas, Scikit-Learn |
+| 📅 [HowLongAgo](https://github.com/SardarAhmed05/howlongago) | Python app that calculates time elapsed between two dates in days, minutes & seconds | Python |
+| 📓 [ML Learning Journey](https://github.com/SardarAhmed05/ml_learning_journey) | Personal repo documenting ML & Data Science concepts, practice, and experiments | Jupyter Notebook, NumPy, Matplotlib |
+
+> More projects coming as I keep building!
+
+---
+
+## 📈 Currently Working On
+
+- [ ] Mastering data preprocessing & cleaning workflows
+- [ ] Learning and applying core ML algorithms
+- [ ] Building and evaluating my first models
+- [ ] Competing on Kaggle
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardar-ahmed-58453b243/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sardarahmed05)
+
+---
+
+*Always learning. Always improving.*
