@@ -1,5 +1,7 @@
 # Hi, I'm Sardar Ahmed 
 
+![Profile Views](https://komarev.com/ghpvc/?username=SardarAhmed05&color=blue&style=flat)
+
 I'm an **Artificial Intelligence** and **Machine Learning student** on a journey from raw data to working models. Currently focused on building strong foundations — from cleaning messy datasets to training my first algorithms.
 
 ---
@@ -55,8 +57,7 @@ I'm an **Artificial Intelligence** and **Machine Learning student** on a journey
 ## 📊 GitHub Stats
 
 ![Sardar's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SardarAhmed05&cc=fff&tc=000&ic=000&bc=fff)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SardarAhmed05&theme=default)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SardarAhmed05)
 ---
 
 ## 📫 Let's Connect
