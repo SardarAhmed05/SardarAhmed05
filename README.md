@@ -49,7 +49,7 @@ I'm a **Machine Learning student** on a journey from raw data to working models.
 ## 📊 GitHub Stats
 
 ![Sardar's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SardarAhmed05&cc=fff&tc=000&ic=000&bc=fff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SardarAhmed05&layout=compact&hide_border=true)
+![Top Languages](https://toplangs.vercel.app/api?username=SardarAhmed05)
 
 ---
 
