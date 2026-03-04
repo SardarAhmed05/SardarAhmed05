@@ -63,6 +63,7 @@ I'm an **Artificial Intelligence** and **Machine Learning student** on a journey
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardar-ahmed-58453b243/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sardarahmed05)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sardarbey0@gmail.com)
 
 ---
 
