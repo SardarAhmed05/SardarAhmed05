@@ -1,4 +1,4 @@
-# Hi, I'm Sardar Ahmed 👋
+# Hi, I'm Sardar Ahmed 
 
 I'm a **Machine Learning student** on a journey from raw data to working models. Currently focused on building strong foundations — from cleaning messy datasets to training my first algorithms.
 
