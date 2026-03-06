@@ -56,8 +56,12 @@ I'm an **Artificial Intelligence** and **Machine Learning student** on a journey
 ## 📊 GitHub Stats
 
 <!-- ![Sardar's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SardarAhmed05&cc=fff&tc=000&ic=000&bc=fff) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SardarAhmed05)
----
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SardarAhmed05&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SardarAhmed05&theme=tokyonight)
+
+![GitHub Activity Bar](https://github-readme-activity-graph.vercel.app/graph?username=SardarAhmed05&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SardarAhmed05)
+--- -->
 
 ## 📫 Let's Connect
 
