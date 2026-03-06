@@ -59,7 +59,7 @@ I'm an **Artificial Intelligence** and **Machine Learning student** on a journey
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SardarAhmed05&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SardarAhmed05&theme=tokyonight)
 
-![GitHub Contribution Chart](https://ghchart.rshah.org/409ba5/SardarAhmed05)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SardarAhmed05)
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SardarAhmed05)
 --- -->
 
