@@ -60,6 +60,7 @@ I'm an **Artificial Intelligence** and **Machine Learning student** on a journey
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SardarAhmed05&theme=tokyonight)
 
 ![GitHub Contribution Chart](https://ghchart.rshah.org/SardarAhmed05)
+[![GitHub Stats](https://github-readme-stats.vercel.app)](https://github.com/SardarAhmed05/github-readme-stats)
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SardarAhmed05)
 --- -->
 
