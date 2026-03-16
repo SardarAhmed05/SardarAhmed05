@@ -1,16 +1,19 @@
 # Hi, I'm Sardar Ahmed 
 ![Profile Views](https://komarev.com/ghpvc/?username=SardarAhmed05&color=blue&style=flat)
 
-I'm an **Artificial Intelligence** and **Machine Learning student** on a journey from raw data to working models. Currently focused on building strong foundations — from cleaning messy datasets to training my first algorithms.
+I'm an **Artificial Intelligence** and **Machine Learning student** on a journey from raw data to working models. Currently focused on building end-to-end ML workflows — from cleaning messy datasets to selecting, tuning, and deploying the best model for the job alongside strengthening my foundations.
 
 ---
 
 ## 🧠 What I'm Learning
 
-- **Data Preprocessing & Cleaning** — handling missing values, outliers, feature engineering
-- **Exploratory Data Analysis (EDA)** — uncovering patterns with statistics and visualization
-- **Machine Learning Algorithms** — linear/logistic regression, decision trees, SVMs, clustering
-- **Model Building & Evaluation** — training, validating, and improving predictive models
+- **Data Preprocessing & EDA** — handling missing values, outliers, feature engineering, uncovering patterns with statistics and visualization
+- **Machine Learning Algorithms** — linear/logistic regression, decision trees, SVMs, KNN, Naive Bayes, clustering
+- **Ensemble Methods** — Random Forest, Gradient Boosting, Bagging, Voting & Stacking classifiers
+- **Model Evaluation** — cross-validation, confusion matrix, ROC-AUC, precision/recall, bias-variance tradeoff
+- **Hyperparameter Tuning** — GridSearchCV, RandomizedSearchCV
+- **ML Pipelines** — building clean, reproducible end-to-end workflows with `sklearn.pipeline`
+- **Model Selection** — comparing models systematically and picking the best one with evidence
 
 ---
 
@@ -46,9 +49,11 @@ I'm an **Artificial Intelligence** and **Machine Learning student** on a journey
 
 ## 📈 Currently Working On
 
-- [ ] Mastering data preprocessing & cleaning workflows
-- [ ] Learning and applying core ML algorithms
-- [ ] Building and evaluating my first models
+- [x] Mastering data preprocessing & cleaning workflows
+- [x] Learning and applying core ML algorithms
+- [x] Building and evaluating models (cross-validation, tuning, pipelines)
+- [ ] Building a complete end-to-end ML project
+- [ ] Deploying a model (Streamlit / Flask)
 - [ ] Competing on Kaggle
 
 ---
