@@ -76,6 +76,8 @@ starts *doing*.
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/p33mL8E)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0188721bd1a3169112)
 
+Also reachable at [sardarbey0@gmail.com](mailto:sardarbey0@gmail.com).
+
 ---
 
 *Always learning. Always improving.*
